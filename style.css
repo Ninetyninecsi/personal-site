@@ -1,0 +1,66 @@
+.bi{
+    height: 200px;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.background{
+    background-color: #545454;
+    height: 768px;
+    width: auto;
+}
+
+h1{
+    font-size: 69px;
+    color: #a6a6a6;
+    font-family: 'IBM Plex Serif', serif;
+    letter-spacing: 3rem;
+    text-align: center;
+    margin-top: 200px;
+}
+
+img.profile-pic{
+    border-radius: 50%;
+    margin-top: 70px;
+}
+
+.profile{
+    display: flex;
+    justify-content: center;
+}
+
+.intro{
+    text-align: center;
+    font-size: 2rem;
+    line-height: 2;
+    width: 30%;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    letter-spacing: 2rem;
+    opacity: 50%;
+    font-family: 'DM Sans', sans-serif;
+}
+
+button{
+    background-color: #ad430e;
+    color: white;
+    border: 0;
+    padding: 20px;
+    border-radius: 20%;
+}
+
+.footer{
+    background-color: #545454;
+}
+
+.icons{
+    width: 20px;
+
+}
+
+
+

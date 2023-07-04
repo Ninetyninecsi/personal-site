@@ -1,0 +1,28 @@
+.solitude-photo{
+    height: 50%;
+    width: 100%; 
+    border: 5px solid white;
+}
+
+h1{
+    color: white; 
+    text-align: center; 
+    font-family:'Libre Baskerville', serif; 
+    text-transform: uppercase;
+}
+
+html{
+    background-color: black;
+}
+
+p{
+    color: white; 
+    text-align: center;
+}
+
+.poster{
+    text-align: center; 
+    width: 50%; 
+    margin-top: 100px; 
+    margin-left: 25%;
+}
